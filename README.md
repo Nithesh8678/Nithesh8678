@@ -1,4 +1,4 @@
-![Nithesh banner img](https://github.com/Nithesh8678/nillion-1/blob/main/github.png)
+<p align="center">![Nithesh banner img](https://github.com/Nithesh8678/nillion-1/blob/main/github.png)</p>
 
 <h3 align="center">A passionate Full-Stack developer and a Blockchain Enthusiast.</h3>
 
