@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full-Stack developer and a Blockchain Enthusiast.</h3>
 
-🧛🏼‍♂ About Me:
+#🧛🏼‍♂ About Me:
 
 - 🌐 I’m currently learning **DevOps, Web3**
 - 🗿 Ask me about **Full-Stack Development**
