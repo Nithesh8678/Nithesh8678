@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nithesh8678&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nithesh8678&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh8678&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
