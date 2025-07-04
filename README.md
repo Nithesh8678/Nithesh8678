@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I’m currently learning **Web3**
 - 🗿 Ask me about **Full-Stack Development**
-- 🔱 Visit my Portfolio website at: [PortFolio](https://nitheshportfolio.vercel.app)
+- 🔱 Visit my Portfolio website at: [PortFolio](https://nitheshskportfolio.vercel.app)
 - 📬 How to reach me [Mail](nitheshnithesh56@gmail.com)
 
 - ## 🌐 Socials:
