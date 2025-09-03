@@ -4,7 +4,7 @@
 
 # 🧛🏼‍♂ About Me:
 
-- 👨🏽‍💻 I’m currently learning **Web3**
+- 👨🏽‍💻 I build projects on **Web3**
 - 🗿 Ask me about **Full-Stack Development**
 - 🔱 Visit my Portfolio website at: [PortFolio](https://www.nitheshsk.tech/)
 - 📬 How to reach me [Mail](nitheshnithesh56@gmail.com)
@@ -27,7 +27,7 @@
 ![Cassandra](https://img.shields.io/badge/apache%20cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-%23F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B) ![Solidity](https://img.shields.io/badge/solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=000000)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B) ![Solidity](https://img.shields.io/badge/solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=000000) 
 
 # 📊 GitHub Stats:
 
