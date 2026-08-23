@@ -29,6 +29,8 @@
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B) ![Solidity](https://img.shields.io/badge/solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=000000) 
 
+![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nithesh8678&theme=dark&hide_border=false)<br/>
