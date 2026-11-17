@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I build projects on **Web3**
 - 🗿 Ask me about **Full-Stack Development**
-- 🔱 Visit my Portfolio website at: [PortFolio](https://www.nitheshsk.tech/)
+- 🔱 Visit my Portfolio website at: [PortFolio](https://portfolio-updated-five-smoky.vercel.app/)
 - 📬 How to reach me [Mail](nitheshnithesh56@gmail.com)
 
 - ## 🌐 Socials:
